@@ -20,8 +20,10 @@ I bridge the gap between robust backend logic and clean user interfaces, with a 
 - **Tools:** Jupyter Notebooks, Google Colab
 
 ### 📊 GitHub Analytics
-&nbsp;![Faqih's Stats](https://github-readme-stats.vercel.app/api?username=faqih28alam&show_icons=true&theme=tokyonight)
-&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faqih28alam&layout=compact&theme=tokyonight)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=faqih28alam&show_icons=true&theme=radical" alt="Faqih's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faqih28alam&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
