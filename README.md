@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/faqih28alam/faqih28alam/output/snake.svg" alt="Snake animation" />
 </p>
+
 ###
 
 # Halo, I'm Faqih! 👋
