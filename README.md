@@ -57,7 +57,7 @@ I bridge the gap between robust backend logic and clean user interfaces, with a 
 <br>
 <br>
 
-<p align="right">
+<!-- <p align="right">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRmbTBldG1lNzE4NnM3cjN1c3A1dWlneHh1M2dkb2l0M3dkMHZpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fOQs20FLdvINW/giphy.gif" />
 
   <h6 align="right">...trying my best...</h6>
@@ -65,7 +65,7 @@ I bridge the gap between robust backend logic and clean user interfaces, with a 
   
 </p>
 
-_“Random_state=42”_
+_“Random_state=42”_ -->
 
 
 <!-- <p align="center">
