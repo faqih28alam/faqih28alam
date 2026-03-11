@@ -7,10 +7,14 @@
 ###
 
 <h1 align="center">Halo, I'm Faqih! 👋</h1>
-<h3 align="center">Fullstack Developer | Machine Learning Enthusiast</h3>
+<!-- <h3 align="center">Fullstack Developer | Machine Learning Enthusiast</h3> -->
+<h3 align="center">Fullstack Developer</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+ML+Model+%E2%9A%99%EF%B8%8F;Website+%E2%9A%99%EF%B8%8F;Internet+of+Things+%E2%9A%99%EF%B8%8F;Let's+connect+%F0%9F%92%AC" alt="Typing SVG" />
+</p> -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Website+%E2%9A%99%EF%B8%8F;Frontend+%E2%9A%99%EF%B8%8F;Backend+%E2%9A%99%EF%B8%8F;Database+Design+%E2%9A%99%EF%B8%8F;Let's+connect+%F0%9F%92%AC" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,14 +28,18 @@
 I bridge the gap between robust backend logic and clean user interfaces, with a growing interest in Machine Learning.
 
 ### 🛠 Fullstack Tech Stack
-![Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,postgres,git)
+![Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,tailwind,nextjs,express,go,prisma,postgres,supabase,git,typescript,vite,postman)
 
-### 🤖 Machine Learning & Data Science
+- **Frontend:** React.js, Next.js, Tailwind CSS, ShadCN UI, Typescript
+- **Backend:** Node.js, Express.js, Gin Go Lang
+- **Database:** PostgreSQL, Supabase, Prisma ORM
+
+<!--  ### 🤖 Machine Learning & Data Science
 ![ML Stack](https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,pandas,numpy)
 
 - **Libraries:** Scikit-Learn, TensorFlow, PyTorch
 - **Data:** Pandas, NumPy, Matplotlib
-- **Tools:** Jupyter Notebooks, Google Colab
+- **Tools:** Jupyter Notebooks, Google Colab -->
 
 ### 📊 GitHub Analytics
 <p align="center">
