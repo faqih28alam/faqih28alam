@@ -41,6 +41,15 @@ I bridge the gap between robust backend logic and clean user interfaces, with a 
 - **Data:** Pandas, NumPy, Matplotlib
 - **Tools:** Jupyter Notebooks, Google Colab -->
 
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Live |
+|--------|-------------|------------|------|
+| [Smart Journaling App](https://github.com/faqih28alam/Smart-Journaling-Assistant) | AI-powered journaling with mood analysis & Grok API suggestions | Next.js · Express.js · Supabase · TypeScript | [▶ Live](https://smart-journaling-assistant.vercel.app) |
+| [Learning Portal](https://github.com/faqih28alam/Learning-Portal) | Essay assessment with NLP semantic scoring | Next.js · Go (Gin) · PostgreSQL · TypeScript | [▶ Live](https://learning-portal-id.vercel.app) |
+| [Circle App](https://github.com/faqih28alam/circle-frontend) | Social media platform with post sharing & image upload | React.js · Express.js · PostgreSQL · Prisma ORM | [▶ Live](https://faqihalam.vercel.app/#projects) |
+| [Organic Store](https://github.com/faqih28alam/mini-store-template) | E-commerce with Midtrans payment & Supabase auth | Next.js · TypeScript · Supabase · Midtrans | [▶ Live](https://mini-store-template-one.vercel.app/products) |
+
 ### 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faqih28alam&theme=github_dark" />
